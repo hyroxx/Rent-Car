@@ -1,0 +1,46 @@
+{
+    "data" : [
+    { 
+        "title" : "Fiat Albea 1.3 Multijet",
+        "about" : "lorem ipsum",
+        "price" : "10",
+        "img"   : ["http://www.arabalar.com.tr/fiat/albea/2010/sole-1-3-multijet-dynamic"]
+
+    },
+    { 
+        "title" : "Fiat Albea 1.6",
+        "about" : "lorem ipsum",
+        "price" : "10",
+        "img"   : ["http://www.arabalar.com.tr/fiat/albea/2004/1-6-dynamic"]
+    },
+    { 
+        "title" : "Hyundai Accent Blue 1.6",
+        "about" : "lorem ipsum",
+        "price" : "10",
+        "img"   : ["https://cdn.motor1.com/images/mgl/kMlZe/s3/2010-2016-hyundai-accent-blue.jpg"]
+
+    },
+    { 
+        "title" : "Fiat Albea 1.3 Multijet",
+        "about" : "lorem ipsum",
+        "price" : "10",
+        "img"   : ["http://www.arabalar.com.tr/fiat/albea/2010/sole-1-3-multijet-dynamic"]
+
+    },
+    { 
+        "title" : "Mercedes-AMG G 63",
+        "about" : "lorem ipsum",
+        "price" : "10",
+        "img"   : ["https://tr.depositphotos.com/364637610/stock-photo-novosibirsk-russia-april-2020-mercedes.html"]
+
+    },
+    { 
+        "title" : "Fiat 500",
+        "about" : "lorem ipsum",
+        "price" : "10",
+        "img"   : ["https://tr.depositphotos.com/25829805/stock-photo-fiat-500-city-car-outside.html"]
+
+    }
+
+    ]
+}
