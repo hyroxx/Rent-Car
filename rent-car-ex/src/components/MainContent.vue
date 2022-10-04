@@ -31,6 +31,7 @@
                     >
                 </template>
             </b-carousel-slide>
+
             <b-carousel-slide>
                 <template v-slot:img>
                     <img
@@ -40,15 +41,7 @@
                     >
                 </template>
             </b-carousel-slide>
-            <b-carousel-slide>
-                <template v-slot:img>
-                    <img
-                            class="imgSlideCarousel"
-                            src="https://suppliermatch.org/wp-content/uploads/2019/03/Volkswagen-Australia-Cover.jpg"
-                            alt="image slot"
-                    >
-                </template>
-            </b-carousel-slide>
+            
         </b-carousel>
         <TheForm/>
     </div>

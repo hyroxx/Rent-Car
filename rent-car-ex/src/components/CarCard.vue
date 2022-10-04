@@ -15,7 +15,7 @@
                 <b-card-text class="priceText">
                 ${{item.price}}
                 </b-card-text>
-                <b-icon class="h4 mb-2" icon="bucket" variant="danger"></b-icon>
+                <button @click="getInformation">Get Information</button>
                 </div>
                 </b-card-body>
                 </b-col>
@@ -59,6 +59,12 @@
         },
         async mounted() {   
             console.log(this.item)   
+        },
+        methods:{
+            getInformation(){
+                this.$store.commit('setInformation',this.item);
+                console.log(this.item);
+            }
         }   
     }
 </script>

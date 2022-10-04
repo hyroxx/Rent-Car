@@ -2,6 +2,7 @@
   <div >
     <TheNavbar/>
     <router-view/>
+    <TheFooter/>
   </div>
 </template>
 
@@ -9,8 +10,8 @@
   import globalComponent from "./components/globalComponent";
 export default {
   components:{
-    ...globalComponent
-  }
+    ...globalComponent,
+}
 }
 </script>
 <style>
